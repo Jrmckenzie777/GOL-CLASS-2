@@ -1,0 +1,11 @@
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\bin\Debug\GAME OF LIFE FINAL.exe.config
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\bin\Debug\GAME OF LIFE FINAL.exe
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\bin\Debug\GAME OF LIFE FINAL.pdb
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME OF LIFE FINAL.csprojAssemblyReference.cache
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME_OF_LIFE_FINAL.Form1.resources
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME_OF_LIFE_FINAL.Properties.Resources.resources
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME OF LIFE FINAL.csproj.GenerateResource.cache
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME OF LIFE FINAL.csproj.CoreCompileInputs.cache
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME OF LIFE FINAL.exe
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME OF LIFE FINAL.pdb
+C:\Users\mcken\source\repos\GAME OF LIFE FINAL\GAME OF LIFE FINAL\obj\Debug\GAME_OF_LIFE_FINAL.ModalDialog.resources
